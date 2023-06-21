@@ -2,19 +2,20 @@
 
 ####Junior Web Developer
 __Pesonal Information__:
-+ Location: Litva,Vilnus,
++ Location: Lithuania,Vilnius,
 + Link
 
 
 + __SKILLS__:
     + HTML5;
     + CSS3;
-    + Js(Basic)
+    + Js(Basic);
+    + React
 
 
 + __COURSES__:
     + REDEV,
-    + BELHARD
+    + It-Academy
 
 
 
